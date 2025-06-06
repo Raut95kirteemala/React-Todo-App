@@ -1,6 +1,7 @@
 # React-Todo-App
 Description:-
-A clean and simple ToDo List application built with React.js. It helps users manage daily tasks effectively with a responsive layout and intuitive design.
+A clean, minimal, and responsive ToDo List application built with React.js. This app helps users keep track of daily tasks with features like marking tasks as done and saving them in local storage so they don't disappear on refresh.
+
 
 🔧 Key Features:-
 ➕ Add new tasks to your list
@@ -11,8 +12,8 @@ A clean and simple ToDo List application built with React.js. It helps users man
 
 📱 Fully responsive design – works on mobile and desktop
 
-💾 Uses React hooks (useState) for real-time updates
-
+⚛️ Uses React hooks (useState) for real-time updates
+💾 Persistent data using Local Storage – tasks remain saved even after refreshing the browser
 
 📌 How It Works:-
 Type a task in the input field and click "Add"
