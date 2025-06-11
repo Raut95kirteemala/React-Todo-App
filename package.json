@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "22.15.1"
+  },
   "name": "todoapp",
   "private": true,
   "version": "0.0.0",
